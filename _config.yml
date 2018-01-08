@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: Shelly Renay Photo
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+description: ""
+url: "https://bhlmn.github.io"
+baseurl: "/shellyrenayphoto"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://bhlmn.github.io/shellyrenayphoto/gallery/"  
+  - JOURNAL: "https://bhlmn.github.io/shellyrenayphoto/journal/"
+  - ABOUT: "https://bhlmn.github.io/shellyrenayphoto/about/"
 
 # All translation keys
 translations:
