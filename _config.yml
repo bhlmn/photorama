@@ -16,7 +16,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Shelly Holman
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -35,7 +35,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://bhlmn.github.io/shellyrenayphoto/gallery/"
-  - JOURNAL: "https://bhlmn.github.io/shellyrenayphoto/journal/"
+  # - JOURNAL: "https://bhlmn.github.io/shellyrenayphoto/journal/"
   - ABOUT: "https://bhlmn.github.io/shellyrenayphoto/about/"
 
 # All translation keys
